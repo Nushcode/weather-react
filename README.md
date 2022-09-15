@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is live [at](Your site is live at https://nushcode.github.io/weather-react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
